@@ -1,0 +1,67 @@
+.section{
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.section__container{
+  width: 70%;
+}
+
+.section__texto{
+  width: 70%;
+  padding-left: 15%;
+  padding-right: 15%;
+  text-align: justify;
+}
+
+.hero-section{
+  background-color: $jellybean;
+  color: $white;
+  padding-top: 10%;
+  padding-bottom: 10%;
+}
+
+.hero-section--empathis{
+  font-weight: $bold;
+}
+
+.organicos{
+  background-color: $taupegray;
+  color: $snow;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.limache{
+  color: $granitegray;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.nosotros{
+  background-color: $jellybean;
+  margin: 0;
+  color: $snow;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.personas{
+  color: $granitegray;
+  padding-top: 5%;
+  padding-bottom: 8%;
+}
+
+.personas__img{
+  width: 50%;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-top: 5%;
+}
+
+.form{
+  background-color: $jellybean;
+  color: $snow;
+  padding-top: 2%;
+  padding-bottom: 5%;
+}
