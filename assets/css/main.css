@@ -128,4 +128,15 @@ footer {
   width: 15%;
 }
 
+.button {
+  font-family: "Raleway", sans-serif;
+  font-size: 50px;
+  padding: 0.7rem 6rem;
+  border-radius: 100px;
+  font-weight: 700;
+  color: #686963;
+  background-color: #fff;
+  border: 2px solid #686963;
+}
+
 /*# sourceMappingURL=main.css.map */
